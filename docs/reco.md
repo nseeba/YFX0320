@@ -28,7 +28,7 @@ CMS-detektori keskseks omaduseks on suur ülijuhtiv solenoidmagnet, mille väli 
  </figure>
 
  1. Interaktsioonipunktist väljapoole sisenevad osakesed esmalt sisemisse jälgimissüsteemi, kus laetud osakeste trajektoorid (rajad) ja alguspunktid (verteksid) rekonstrueeritakse CMS jälgimissüsteemi kihtide tabamustest. Rajad on magnetvälja tõttu painutatud, mis võimaldab mõõta laetud osakeste impulssi ja elektrilaengut.
- 2. Sisemisest jälgimissüsteemist sisenevad osakesed ECAL-i, kus olenevalt osakeste tüübist hakkavad nad sadama ja energiat kaotama, mida saab rekonstrueerida klastritena. Elektronid ja footonid neelduvad ECAL-is täielikult, laetud ja neutraalsed hadronid kaotavad osa, kuid tavaliselt mitte kogu oma energiast ning liiguvad HCAL-i edasi koos müüonidega, mis minimaalselt ioniseerivate osakestena (MIP) kaotavad kalorimeetrites vaid vähesel määral energiat.
+ 2. Sisemisest jälgimissüsteemist sisenevad osakesed ECAL-i, kus olenevalt osakeste tüübist hakkavad nad kaskaadima (particle shower) ja energiat kaotama, mida saab rekonstrueerida klastritena. Elektronid ja footonid neelduvad ECAL-is täielikult, laetud ja neutraalsed hadronid kaotavad osa, kuid tavaliselt mitte kogu oma energiast ning liiguvad HCAL-i edasi koos müüonidega, mis minimaalselt ioniseerivate osakestena (MIP) kaotavad kalorimeetrites vaid vähesel määral energiat.
  3. Laetud ja neutraalsed hadronid jätkavad liikumist HCAL-is, kus nad kaotavad enamiku, kui mitte kogu oma energiast, ja neelduvad täielikult.
  4. Lõpuks, müüonid jätavad müüoni süsteemi rajad, mis võimaldavad nende tuvastamist ja rekonstrueerimist.
 
