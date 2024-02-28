@@ -41,7 +41,7 @@ Elementaarosakeste standardmudel on kvantväljateooria, mis kirjeldab universumi
 * Mis on kõige raskem elementaarosake? Miks?
 * Mis on Pauli keeluprintsiip?
 
-## <span style="color:#ec417a">Osakestekiirendid</span>
+<!-- ## <span style="color:#ec417a">Osakestekiirendid</span>
 Osakestekiirendid on masinad, millega toodetakse energeetilisi osakeste kiiri. Lisaks osakestefüüsikale, leiavad nad kasutust mitmetes teistes valdkondades, nagu näiteks tuumafüüsikas, isotoopide tootmises, meditsiinis jne. Kiirendid on kui suured mikroskoobid, mis võimaldavad uurida subatomaarset maailma.
 
 Millist tüüpi kiirendid eksisteerivad?
@@ -60,7 +60,7 @@ Füüsikalised protsessid, mille abil mõõdetakse:
     ergastamine
     trajektoori muutus
 
-
+ -->
 
 
 ## <span style="color:#ec417a">LHC</span>

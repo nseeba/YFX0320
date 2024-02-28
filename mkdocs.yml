@@ -29,9 +29,10 @@ theme:
 nav:
   - "index.md"
   - "Sissejuhatus.md"
-  - "reco.md"
   - "feynman.md"
-  - "analysis.md"
+  - "reco.md"
+  # - "analysis.md"
+  # - "Kursusetoo.md"
 
 markdown_extensions:
   - pymdownx.highlight:
