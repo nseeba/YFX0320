@@ -13,12 +13,20 @@ Osakeste vastasmõjud ehk interaktsioonid. Implussi kannavad propagaatorid. Vert
 
 Lagunemine on spontaanne protsess, kus ebastabiilne osake muutub ehk laguneb mitmeks teiseks osakeseks. Osakesed, mis tekivad peavad olema vähem massiivsemad kui algosake. Lagunemised järgivad samu printsiipe, mis vastasmõjud - verteksid näitavad osakeste muundumist ja impulsi ülekannet. Me suudame näha vaid lõppoleku osakesi.
 
+Lagunemiskanalid on võimalikud transformatsioonid, mida osakesed võivad lagunedes teha ehk millisteks osakesteks ja kombinatsioonideks võib algosake laguneda.
+
+<figure markdown>
+  ![ttbar](assets/Ttbar_decay_channels.png){align="center", width="500"}
+  <figcaption>Joonis 2. ttbar lagunemiskanalid </figcaption> 
+ </figure>
+
+
 ## <span style="color:#ec417a">Kuidas lugeda Feynmani diagramme?</span>
 Joonisel 2 on kujutatud näitena Feynmani diagrammi, mis visualiseerib topelt-Higgsi (HH) loomist vektor bosonite liitumise tootmisrežiimis. Aeg kulgeb vasakult paremale, mis tähendab, et diagrammi vasakul poolel kujutatakse algosakesi ja paremal poolel lõpposakesi. 
 
 <figure markdown>
   ![vbf](assets/vbfc2v-modified.png){align="center", width="500"}
-  <figcaption>Joonis 2. Näide HH loomisest qqHH tootmisrežiimis </figcaption> 
+  <figcaption>Joonis 3. Näide HH loomisest qqHH tootmisrežiimis </figcaption> 
  </figure>
 
  Diagrammilt saab lugeda, et algosakesteks on 2 kvarki (q), mis mõlemad kiirgavad välja vektor bosoni (V). Vektor bosonid liituvad ja lõpposakesteks on Higgsi bosonite paar ehk topelt-Higgs. Diagramm ei näita Higgsi bosonite lagunemist.  
