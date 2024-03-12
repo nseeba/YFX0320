@@ -89,8 +89,6 @@ Laetud hadronid, mis identifitseeritakse ja rekonstrueeritakse on $\pi^{+/-}$, $
 
 Värvilaengut kandvad osakesed ei saa eksisteerida üksinda QCD vangistuse tõttu, mis võimaldab ainult värvituid olekuid. Detektorit läbivad kvargid ja gluuonid hadroniseeruvad ehk loovad täiendavaid hadroneid, et moodustada värvituid objekte. Kollektsiooni, mis sisaldab samas suunas liikuvaid värvituid hadroneid, nimetatakse kitsaks osakeste joaks (inglise keeles narrow jet of particles). Jet'e uuritakse, et mõõta kvarkide ja gluuonite omadusi ja nende ehitamiseks kasutatakse spetsiaalseid algoritme, mis utiliseerivad PF kandidaate. 
 
-add pics, types of jets
-
 * <span style="color:#ec417a">Puuduv ristienergia</span> 
 
 Puuduv energia on energia, mida osakeste detektoris ei tuvastata, kuid mida oodatakse energia jäävuse ja impulsi jäävuse seaduste tõttu. Puuduvat energiat kannavad osakesed, mis ei interakteeru elektromagnetiliselt ega tugeva jõuga ning on seetõttu raskesti tuvastatavad.

@@ -70,7 +70,7 @@ LHC-l on neli peamist detektori eksperimenti, mis asetsevad erinevatel interakts
 
 <figure markdown>
   ![atlasdet](assets/lhc-modified.png){ align="center", width="800" }
-  <figcaption>Joonis . LHC </figcaption> 
+  <figcaption>Joonis 2. LHC </figcaption> 
  </figure>
 
 * <a href="https://www.home.cern/science/experiments/cms" target="_blank" rel="noopener">CMS</a>
@@ -79,10 +79,27 @@ LHC-l on neli peamist detektori eksperimenti, mis asetsevad erinevatel interakts
 
     <figure markdown>
   ![cmsdet](assets/cms-modified.png){ align="center", width="600" }
-  <figcaption>Joonis . CMS detektor </figcaption> 
+  <figcaption>Joonis 3. CMS detektor </figcaption> 
  </figure>
 
- add cms coordinate system
+<span style="color:#ec417a">Koordinaatsüsteem</span> <br>
+
+CMS kasutab paremakäelist Descartesi ristkoordinaatide süsteemi, mille algpunkt asub LHC rõngal (CMS detektoris kiirte nominaalses kokkupõrkepunktis), x-telg kulgeb radiaalselt LHC rõnga keskpunkti suunas, y-telg on suunatud vertikaalselt üles ja z-telg piki kiirte liikumissuunda. CMS detektor on radiaalselt sümmeetriline ümber z-telje, mis teeb võimalikuks silindriliste koordinaatide kasutamise osakeste liikumissuuna kirjeldamiseks. 
+
+$\phi$ on defineeritud asimuudinurgana ehk horisontaalse nurgana, mida mõõdetakse x-teljest x-y tasandil. Polaarnurk on defineeritud kui $\theta$, mida mõõdetakse z-teljest. Mugavuse eesmärgil kasutatakse polaarnurga asemel suurust nimega "pseudorapiditeet" (inglise keeles pseudorapidity), mida tähistatakse $\eta$ ja on defineeritud kui:
+
+$\eta = ln(\tan \frac{\theta}{2})$
+
+Põhjuseks on see, et $\eta$ teisendused on Lorentz invariantsed. Impulss ja osakeste kiirega risti olev energia on tähistatud vastavalt $p_{T}$ ja $E_{T}$ ning neid arvutatakse x ja y komponentidest. Kahe osakese vaheline nurkeraldust tähistatakse $\Delta R$ ja on defineeritud kui:
+
+$\Delta R = \sqrt{(\Delta \eta)^{2} + (\Delta \phi)^{2}}$ , 
+
+kus $\Delta \eta$ on osakeste pseudorapiditeetide erinevus ja $\Delta \phi$ asimuudinurkade erinevus. Joonisel 4 on näha CMSi koordinaatsüsteem ja visualiseeritud pseudorapiditeet. IP tähistab joonisel kokkupõrkepunkti ehk "interaction point", $\vec{p}$ tähistab osakese liikumise trajektoori.
+
+<figure markdown>
+  ![cmscrd](assets/cmscrd.png){ align="center", width="800" }
+  <figcaption>Joonis 4. CMS koordinaatsüsteem </figcaption> 
+ </figure>
 
 * <a href="https://www.home.cern/science/experiments/atlas" target="_blank" rel="noopener">ATLAS </a>
 
@@ -90,7 +107,7 @@ LHC-l on neli peamist detektori eksperimenti, mis asetsevad erinevatel interakts
     
     <figure markdown>
   ![atlasdet](assets/atlas-modified.png){ align="center", width="600" }
-  <figcaption>Joonis . ATLAS detektor </figcaption> 
+  <figcaption>Joonis 5. ATLAS detektor </figcaption> 
  </figure>
 
 * <a href="https://www.home.cern/science/experiments/alice" target="_blank" rel="noopener">ALICE</a>
@@ -99,7 +116,7 @@ LHC-l on neli peamist detektori eksperimenti, mis asetsevad erinevatel interakts
     
     <figure markdown>
   ![alicedet](assets/alice-modified.png){ align="center", width="600" }
-  <figcaption>Joonis . ALICE detektor </figcaption> 
+  <figcaption>Joonis 6. ALICE detektor </figcaption> 
  </figure>
 
 * <a href="https://www.home.cern/science/experiments/lhcb" target="_blank" rel="noopener">LHCb</a>
@@ -108,16 +125,10 @@ LHC-l on neli peamist detektori eksperimenti, mis asetsevad erinevatel interakts
     
     <figure markdown>
   ![lhcbdet](assets/lhcb-modified.png){ align="center", width="600" }
-  <figcaption>Joonis . LHCb detektor </figcaption> 
+  <figcaption>Joonis 7. LHCb detektor </figcaption> 
  </figure>
 
 ## <span style="color:#ec417a">Eksperimentaalne osakestefüüsika</span>
-Kõrge energia füüsika (HEP)
+Eksperimentaalne kõrge energia füüsika (HEP) ehk osakestefüüsika on mateeria ja radiatsiooni põhikomponentide praktiline uurimine, eesmärgiga mõista universumit selle kõige fundamentaalsemal tasemel. Teadustööd tehakse enamjaolt suurtes ülemaailmsetes kollaboratsioonides nagu näiteks CERNi experimendid, <a href="https://t2k-experiment.org/" target="_blank" rel="noopener">T2K </a> eksperiment Jaapanis, mis uurib neutriino interkatsioone ja <a href="https://supercdms.slac.stanford.edu/" target="_blank" rel="noopener">SuperCDMS </a> eksperiment USAs, mis otsib tume ainet. Eksperimentaalne osakestefüüsika hõlmab enda alla erinevaid teadusalasid nagu näiteks kiirendifüüsika, detektorifüüsika, inseneeria, andmeteadus ja arvutiteadus. Sellest on välja kujunenud ka meditsiinis rakendatavad meetodid vähiraviks ja piltkujutiste saamise meetodid (positronemissioontomograafia skännereid, mis on inspireeritud osakeste detektori disainidest).
 
-Mida see endast kujutab? Mida teeme, uurime?
-
-Nõela otsimine heinakuhjast
-
-Higgsi avastus aastal 2012
-
-Detektorifüüsika, Inseneeria, Andmeteadus, Analüüs, Rekonstrueerimine
+Meie keskendume LHC kiirendifüüsika analüüsile ja masinõppe meetoodide kasutamisele osakeste rekonstrueerimisel ja identifitseerimisel. 
