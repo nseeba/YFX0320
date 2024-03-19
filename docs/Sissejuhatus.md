@@ -132,3 +132,7 @@ kus $\Delta \eta$ on osakeste pseudorapiditeetide erinevus ja $\Delta \phi$ asim
 Eksperimentaalne kõrge energia füüsika (HEP) ehk osakestefüüsika on mateeria ja radiatsiooni põhikomponentide praktiline uurimine, eesmärgiga mõista universumit selle kõige fundamentaalsemal tasemel. Teadustööd tehakse enamjaolt suurtes ülemaailmsetes kollaboratsioonides nagu näiteks CERNi experimendid, <a href="https://t2k-experiment.org/" target="_blank" rel="noopener">T2K </a> eksperiment Jaapanis, mis uurib neutriino interkatsioone ja <a href="https://supercdms.slac.stanford.edu/" target="_blank" rel="noopener">SuperCDMS </a> eksperiment USAs, mis otsib tume ainet. Eksperimentaalne osakestefüüsika hõlmab enda alla erinevaid teadusalasid nagu näiteks kiirendifüüsika, detektorifüüsika, inseneeria, andmeteadus ja arvutiteadus. Sellest on välja kujunenud ka meditsiinis rakendatavad meetodid vähiraviks ja piltkujutiste saamise meetodid (positronemissioontomograafia skännereid, mis on inspireeritud osakeste detektori disainidest).
 
 Meie keskendume LHC kiirendifüüsika analüüsile ja masinõppe meetoodide kasutamisele osakeste rekonstrueerimisel ja identifitseerimisel. 
+
+
+
+<a href="https://drive.google.com/drive/folders/1hWVpdC_pgHMa0zssnDygDtpWye1_wlbg?usp=sharing" target="_blank" rel="noopener">Drive</a>
