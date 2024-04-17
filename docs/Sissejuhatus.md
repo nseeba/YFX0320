@@ -133,6 +133,3 @@ Eksperimentaalne kõrge energia füüsika (HEP) ehk osakestefüüsika on mateeri
 
 Meie keskendume LHC kiirendifüüsika analüüsile ja masinõppe meetoodide kasutamisele osakeste rekonstrueerimisel ja identifitseerimisel. 
 
-
-
-<a href="https://drive.google.com/drive/folders/1hWVpdC_pgHMa0zssnDygDtpWye1_wlbg?usp=sharing" target="_blank" rel="noopener">Drive</a>

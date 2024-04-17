@@ -31,8 +31,7 @@ nav:
   - "Sissejuhatus.md"
   - "feynman.md"
   - "reco.md"
-  # - "analysis.md"
-  # - "Kursusetoo.md"
+  - "kosmo.md"
 
 markdown_extensions:
   - pymdownx.highlight:
