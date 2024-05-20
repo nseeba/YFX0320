@@ -9,3 +9,8 @@
 
 ## <span style="color:#ec417a">Kodused ülesanded</span>
 * [Kodused ülesanded iseseisvaks harjutamiseks](artifacts/kodu_yl.pdf)
+
+  
+## <span style="color:#ec417a">Kordamisküsimused</span>
+* [Kordamisküsimused](artifacts/Kordamisküsimused_2024.pdf)
+
